@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/thandarka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thandarkhineaye" height="30" width="40" /></a>
 <a href="https://fb.com/thandar6192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thandar6192" height="30" width="40" /></a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thandarkhineaye&show_icons=true&locale=en&layout=compact" alt="thandarkhineaye" /></p>
