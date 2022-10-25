@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://tenor.com/bQ1xU.gif" width="100"/>
+  <img src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316" width="100"/>
 </div>
 <h3 align="center">A passionate Software/Web Developer from Myanmar</h3>
 
