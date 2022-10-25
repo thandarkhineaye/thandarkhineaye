@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">A passionate Software/Web Developer from Myanmar</h3>
+
+- 🔭 I’m currently working on **Airitech Co.,Ltd, Tokyo**
+
+- 🌱 I’m currently learning **Python, Machine Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/thandarkhineaye](https://github.com/thandarkhineaye)
+
+- 📫 How to reach me **thandarkhineaye92@gmail.com**
