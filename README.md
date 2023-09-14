@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Airitech Co.,Ltd, Tokyo**
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m self-studying **Python, Machine Learning**
 
 - 👨‍💻 All of my study projects are available at [https://github.com/thandarkhineaye](https://github.com/thandarkhineaye)
 
