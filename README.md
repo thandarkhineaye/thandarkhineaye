@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate Software/Web Developer from Myanmar</h3>
-
 - 🔭 Currently working on **Airitech Co.,Ltd, Tokyo**
 
 - 🌱 Self-studying on **Python, Machine Learning**
