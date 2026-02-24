@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Currently working on **Airitech Co.,Ltd, Tokyo**
+- 🔭 Currently working on **SHIFT Co.,Ltd, Tokyo**
 
 - 🌱 Self-studying on **Python, Machine Learning**
 
